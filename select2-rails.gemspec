@@ -2,7 +2,7 @@
 require File.expand_path("../lib/select2-rails/version", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "select2-rails"
+  s.name        = "powerhome-select2-rails"
   s.version     = Select2::Rails::VERSION
   s.authors     = ["Rogerio Medeiros", "Pedro Nascimento"]
   s.email       = ["argerim@gmail.com", "pnascimento@gmail.com"]
